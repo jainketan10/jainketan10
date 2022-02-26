@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ketan
 - 👀 I’m interested in ...Learning various technologies
-- 🌱 I’m currently learning ...Full Stack Java Development
+- 🌱 I’m currently learning ...Full Stack Development
 - 💞️ I’m looking to collaborate on ...will be updated soon
 - 📫 How to reach me ...jainketan10@gmail.com OR linkedin.com/in/jain-ketan/
 
